@@ -1,3 +1,16 @@
+/*
+|
+|	dolly.js - dolly.js is a super simple JavaScript plugin
+|	for cloning JavaScript variables. Support is omitted for
+|	several object types that were not required in the
+|	application but support may be added in the future.
+|
+|	credit: 	IonikLabs (http://www.ioniklabs.com)
+|	author: 	Matt Johnson
+|	source: 	https://github.com/ioniklabs/dolly.js 
+|
+| */
+
 var dolly = ( function( document, window ) {
 
 	function dolly( variable ) {
