@@ -1,6 +1,6 @@
 # dolly.js
 
-dolly.js is a super simple JavaScript plugin for cloning JavaScript variables. Support is ommitted for several object types that were not required in the application but support may be added in the future.
+dolly.js is a super simple JavaScript plugin for cloning JavaScript variables. Support is omitted for several object types that were not required in the application but support may be added in the future.
 
 ## example
 ```
