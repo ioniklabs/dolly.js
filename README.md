@@ -21,5 +21,9 @@ var obj = {
 };
 var clone = dolly(obj);
 clone.is_clone = true;
-console.log( obj.is_clone ); // false
+console.log(obj.is_clone); // false
 ```
+that's all there is to it.
+
+## credits
+* [Dolly](https://en.wikipedia.org/wiki/Dolly_(sheep))
